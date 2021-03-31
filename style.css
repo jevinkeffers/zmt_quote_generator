@@ -76,8 +76,8 @@ button:active {
 }
 
 .twitter-button:hover {
-    background-color: #38a1f3;
-    color: white;
+    background-color: #f8f8ff;
+    color: #38a1f3;
 }
 
 .fa-twitter {
